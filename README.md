@@ -13,13 +13,13 @@ Cada trabalho de casa está organizado numa pasta com o nome do trabalho de casa
 
 ### Trabalhos de Casa:
 - [TPC 1](https://github.com/szxbo/SPLN2324/tree/main/TPCs/TPC1)
-Script que conta o número de palavras num texto
+    Script que conta o número de palavras num texto
 - [TPC 2](https://github.com/szxbo/SPLN2324/tree/main/TPCs/TPC2)
-TPC anterior com adição de flags
+    TPC anterior com adição de flags
 - [TPC 3](https://github.com/szxbo/SPLN2324/tree/main/TPCs/TPC3)
-Uso de templates para configuração de projetos
+    Uso de templates para configuração de projetos
 - [TPC 4](https://github.com/szxbo/SPLN2324/tree/main/TPCs/TPC4)
-Script para retribuir tweets por ID
+    Script para retribuir tweets por ID
 - [TPC 5](https://github.com/szxbo/SPLN2324/tree/main/TPCs/TPC5)
-Processamento de texto em português com spacy
+    Processamento de texto em português com spacy
 
