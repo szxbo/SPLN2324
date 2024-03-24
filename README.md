@@ -7,7 +7,7 @@ UC: SPLN
 # Scripting no Processamento de Linguagem Natural
 
 ### Descrição:
-Neste repositório encontram-se as resoluções dos trabalhos de casa sugeridos para a UC SPLN2324. 
+Neste repositório encontram-se as resoluções dos trabalhos de casa sugeridos para a UC SPLN. 
 
 Cada trabalho de casa está organizado numa pasta com o nome do trabalho de casa e contém um ficheiro com a descrição do trabalho e os ficheiros necessários para a sua resolução.
 
