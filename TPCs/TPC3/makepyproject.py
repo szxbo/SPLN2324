@@ -46,7 +46,8 @@ def main():
     dynamic = ["description"]
 
     dependencies = [
-        "FIXME"
+        "jjcli",
+        "jinja2"
     ]
 
     [project.scripts]
