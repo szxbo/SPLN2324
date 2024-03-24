@@ -9,7 +9,7 @@ UC: SPLN
 
 ## Resumo
 
-A script calcula a frequência de palavras num texto, escrevendo o resultado, para o ficheiro output.txt, sendo este composto por todas as palavras desse texto com o número de ocorrências à frente.
+A script calcula a frequência de palavras num texto, escrevendo o resultado, para o ficheiro output.txt, sendo este composto por uma lista de palavras desse texto com o respetivo número de ocorrências
 Contém duas flags:
 
 Mostrar as 20 palavras mais comuns
